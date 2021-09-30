@@ -96,8 +96,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# Resultado
-
-<p aling="center">
-    <img src="Sistema-de-comentário.gif">
+## Resultado
+<p align="center">
+  <img src="./my-app/Sistema-de-comentário-em-React.gif">
 </p>
