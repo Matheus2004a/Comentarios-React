@@ -98,5 +98,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Resultado
 <p align="center">
-  <img src="./my-app/Sistema-de-comentário-em-React.gif">
+  <img src="Sistema-de-comentário-em-React.gif">
 </p>
