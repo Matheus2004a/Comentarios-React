@@ -1,6 +1,6 @@
 # Sistema de comentários feito em React
 
-Antes de começar a instalar as dependências, é preciso que tenha o Node já instalado. Para instalar ele é só entrar no site oficial [(https://nodejs.org/en/)].
+Antes de começar a instalar as dependências, é preciso que tenha o Node já instalado. Para instalar ele é só entrar no site oficial https://nodejs.org/en/.
 
 **Procure instalar a versão LTS do Node, pois ela é estável. A versão Current está em fase de teste, sendo assim é provável que possa haver erros futuros nela.**
 
@@ -8,7 +8,7 @@ Caso você tenha um sistema operacional que não seja o Windows, basta apenas cl
 
 ## Depois de instalado o Node siga os seguintes passos para iniciar um projeto qualquer em React:
 
-- Instale todas as dependências para iniciar o projeto em um servidor conforme dito no site do React [(https://pt-br.reactjs.org/docs/create-a-new-react-app.html)], onde você digita os comandos abaixo para iniciar a criação do seu site(app).
+- Instale todas as dependências para iniciar o projeto em um servidor conforme dito no site do React https://pt-br.reactjs.org/docs/create-a-new-react-app.html, onde você digita os comandos abaixo para iniciar a criação do seu site(app).
 
 ```sh
 npx create-react-app my-app
