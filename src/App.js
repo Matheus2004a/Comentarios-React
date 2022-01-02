@@ -3,9 +3,8 @@ import Image from './svg/pessoas.svg'
 import './App.css'
 
 function App() {
-
   const [comments, setComments] = React.useState()
-  const [allComments, setAllComments] = React.useState([]) // Estado do react usado para mostrar os valores na <li> apenas quando clicar no botão "comentar"
+  const [allComments, setAllComments] = React.useState([]) // State react used to show the values in <li> just when click in the button "comment"
   
   function changesTextarea(event){
     setComments(event.target.value)
@@ -13,18 +12,17 @@ function App() {
 
   function clickButton(){
     const allPreviousComments = [...allComments, comments]
-
     setAllComments(allPreviousComments)
   }
 
   return (
-    <div className="App">
+    <div className="app">
       <img src={Image} alt="imagem-pessoas" />
       <textarea onChange={changesTextarea} placeholder="Digite seu comentário aqui"></textarea>
       <button onClick={clickButton}>Comentar</button>
 
       <ul>
-        {allComments.map((eachComment) => (
+        {allComments.map(eachComment => (
           <li key={eachComment}>{eachComment}</li>
         ))}
       </ul>

@@ -2,12 +2,9 @@
 
 Antes de começar a instalar as dependências, é preciso que tenha o Node já instalado. Para instalar ele é só entrar no site oficial [(https://nodejs.org/en/)].
 
-*** Procure instalar a versão LTS do Node, pois ela é estável. A versão Current está em fase de teste, sendo assim é provável que possa haver erros futuros nela. ***
+**Procure instalar a versão LTS do Node, pois ela é estável. A versão Current está em fase de teste, sendo assim é provável que possa haver erros futuros nela.**
 
-Caso você tenha um sistema operacional que não seja o Windows, basta apenas clicar na opção "Other Downloads" e escolher seu sistema operacional, como no exemplo abaixo:
-
-<img src="Exemplos-Node1.png">
-<img src="Exemplos-Node2.png">
+Caso você tenha um sistema operacional que não seja o Windows, basta apenas clicar na opção "Other Downloads" e escolher seu sistema operacional.
 
 ## Depois de instalado o Node siga os seguintes passos para iniciar um projeto qualquer em React:
 
@@ -26,7 +23,7 @@ Após finalizar a instalação de todas as dependências basta apenas abrir a pa
 - O comando cd my-app entra dentro da pasta da sua aplicação.
 - O comando npm start é para iniciar o servidor para rodar sua aplicação.
 
-## Siga os exemplos abaixo caso queira iniciar um projeto qualquer em React através do guia do site oficial do React:
+### Siga os exemplos abaixo caso queira iniciar um projeto qualquer em React através do guia do site oficial do React:
 
 # Getting Started with Create React App
 
@@ -98,3 +95,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Resultado
+<img src="ComentárioReact.gif">
